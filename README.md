@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0F2C67&height=150&section=header&text=Kimgaeul&fontSize=60&fontColor=F4E185)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0F2C67&height=150&section=header&text=Kimgaeul&fontSize=60&fontColor=F3950D)
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
