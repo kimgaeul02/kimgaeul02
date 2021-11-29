@@ -7,6 +7,8 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgaeul02&show_icons=true&theme=default)
+
 
 <!--
 **kimgaeul02/kimgaeul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
