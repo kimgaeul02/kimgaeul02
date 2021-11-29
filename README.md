@@ -4,6 +4,9 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
+
 
 <!--
 **kimgaeul02/kimgaeul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
