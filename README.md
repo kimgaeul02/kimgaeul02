@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0F2C67&height=150&section=header&text=Kimgaeul&fontSize=60&fontColor=F3950D)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A6C2CE,100:ebc57c&height=300&section=header&text=Gaeul%20Kim&fontSize=90&fontColor=FFFFFF)
+
+
 ### Hi there 👋
 
 🌱 I’m currently learning ... [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)](https://github.com/kimgaeul02/kimgaeul02)
