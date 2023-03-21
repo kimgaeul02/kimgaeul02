@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A6C2CE,100:ebc57c&height=300&section=header&text=Gaeul%20Kim&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A6C2CE,100:ebc57c&height=200&section=header&text=Gaeul%20Kim&fontSize=90&fontColor=FFFFFF)
 
 
 ### Hi there 👋
